@@ -1,0 +1,1 @@
+[{"Number1":400,"Number2":200},{"Number1":20,"Number2":30},{"Number1":40,"Number2":50},{"Number1": 100,"Number2": 500},{"Number1": 100,"Number2": 3005},{"Number1":500,"Number2":680},{"Number1":700,"Number2":1000},{"Number1":35,"Number2":45},{"Number1":87,"Number2":34}]
